@@ -11,6 +11,7 @@
 		DC3D8B21270A38D000C335C9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3D8B20270A38D000C335C9 /* ContentView.swift */; };
 		DC3D8B23270A38D100C335C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC3D8B22270A38D100C335C9 /* Assets.xcassets */; };
 		DC3D8B26270A38D100C335C9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC3D8B25270A38D100C335C9 /* Preview Assets.xcassets */; };
+		DC3D8B2D270A3ADE00C335C9 /* CustomeShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3D8B2C270A3ADE00C335C9 /* CustomeShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DC3D8B20270A38D000C335C9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DC3D8B22270A38D100C335C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC3D8B25270A38D100C335C9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DC3D8B2C270A3ADE00C335C9 /* CustomeShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomeShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				DC3D8B1E270A38D000C335C9 /* walletAppApp.swift */,
 				DC3D8B20270A38D000C335C9 /* ContentView.swift */,
+				DC3D8B2C270A3ADE00C335C9 /* CustomeShape.swift */,
 				DC3D8B22270A38D100C335C9 /* Assets.xcassets */,
 				DC3D8B24270A38D100C335C9 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DC3D8B21270A38D000C335C9 /* ContentView.swift in Sources */,
+				DC3D8B2D270A3ADE00C335C9 /* CustomeShape.swift in Sources */,
 				DC3D8B1F270A38D000C335C9 /* walletAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
